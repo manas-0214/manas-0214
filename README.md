@@ -1,4 +1,4 @@
-![logo](https://github.com/manas-0214/manas-0214/blob/main/banner.png)
+![logo](https://github.com/manas-0214/manas-0214/blob/main/github%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Manas Singh</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
